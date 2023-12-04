@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Nipun Parekh</h1>
 <h3 align="center">A passionate DevOps engineer from India❤</h3>
-<h3 align="center">AWS certified |  Oracle Cloud *3 | Azure Certified| Gitlab Certified | Aviatrix certified | AWS & Microsoft Student Ambassador | AWS UG Rajkot Leader | AWS Community Builder</h3>
+<h3 align="center">AWS certified*3 |  Oracle Cloud *4 | Azure Certified| Gitlab Certified | Aviatrix certified | AWS & Microsoft Student Ambassador | AWS UG Rajkot Leader | AWS Community Builder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun214&label=Profile%20views&color=0e75b6&style=flat" alt="nipun214" /> </p>
 
